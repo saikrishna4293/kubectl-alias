@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#thgjhgug
 K='kubectl'
 KG='kubectl --kubeconfig=/home/vagrant/gcp-cluster/kube-config'
 
